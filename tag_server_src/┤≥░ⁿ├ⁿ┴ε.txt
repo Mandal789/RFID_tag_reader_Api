@@ -1,0 +1,2 @@
+pkg -t win xxx.js -o name.exe
+pkg -t win tag_server.js -o tag_server_win7_20230517.exe
